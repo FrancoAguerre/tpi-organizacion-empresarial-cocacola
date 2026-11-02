@@ -1,1 +1,6 @@
-
+El diagrama representa el proceso de planificación y ejecución de rutas de distribución de la Planta Piloto de Coca-Cola, incorporando un sistema de gestión logística asistido por Inteligencia Artificial. Su finalidad es mostrar cómo interactúan los responsables de logística, el sistema automatizado y el área encargada de ejecutar las entregas, desde la recepción de los pedidos hasta el registro de los resultados.
+Estructura del proceso
+El modelo utiliza un Pool correspondiente a la Planta Piloto de Coca-Cola, dividido en tres Lanes que representan los distintos participantes y sus responsabilidades:
+- Planificador de rutas: recibe los pedidos, interviene en la corrección de datos cuando es necesario y revisa las propuestas generadas por el sistema. Conserva la responsabilidad de aprobar la planificación definitiva.
+- Sistema de rutas con IA: valida la información recibida, verifica la capacidad disponible de los vehículos y ejecuta el algoritmo de optimización para generar las propuestas de distribución.
+- Flota y distribución: interviene en la etapa operativa, ejecutando las rutas aprobadas y registrando los resultados de las entregas.
